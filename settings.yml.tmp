@@ -1,0 +1,6 @@
+host: 'ldap.server'
+base: 'dc=abc,dc=def'
+port: 389
+method: 'simple'
+bind_dn: 'cn=admin,dc=abc,dc=def'
+password: 'password'
